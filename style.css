@@ -1,0 +1,95 @@
+
+body {
+    background: url("Free_Sample_By_Wix.jpg");
+    background-color: rgb(248, 232, 234);
+    background-repeat: no-repeat;
+    background-size: contain cover;
+}
+.email {
+    height: 20px;
+    width: 300px;
+    position: relative;
+    top: 180px;
+    left: 510px;
+}
+hr {
+    position: relative;
+    top: 240px;
+}
+.started {
+    background-color: orange;
+    height: 30px;
+    width: 100px;
+    position: relative;
+    top: 220px;
+    left: 300px;
+}
+h2 {
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    top: 180px;
+}
+a:hover {
+    font-size: 20px;
+    
+    color: rgb(43, 43, 16);
+}
+a {
+    text-decoration: none;
+    font-size: larger;
+}
+header {
+    position: fixed;
+    margin-left: 1030px;
+    margin-top:40px ;
+}
+.two {
+    padding-left: 50px;
+    
+}
+#three {
+    padding-left: 50px;
+    
+}
+div{
+    line-height: 15px;
+    position: relative;
+    top: 250px;
+}
+
+.first {
+    text-align: center;
+    position: relative;
+    top: 300px;
+    left: 100px;
+    height: 250px;
+    width: 250px;
+    background-color: white;
+}
+.second {
+    text-align: center;
+    position: relative;
+    top: 30px;
+    left: 550px;
+    height: 250px;
+    width: 250px;
+    background-color: white;
+}
+.third {
+    text-align: center;
+    position: relative;
+    left: 1000px;
+    top: -245px;
+    height: 250px;
+    width: 250px;
+    background-color:white;
+}
+footer {
+    height: 65px;
+    width: 1335px;
+    background-color: gray;
+}
+nav {
+    word-spacing: 20px;
+}
